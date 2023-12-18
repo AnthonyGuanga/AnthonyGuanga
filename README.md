@@ -1,6 +1,6 @@
 ## ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif) Hola Como estan :)))))) ![](https://mario.wiki.gallery/images/6/66/DK64_Yellow_Banana.gif)
+<h1>Sobre mi </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-Sobre mi 
 - Soy Anthony guanga Renteria
 - Estudiante de UpGradeHub
 - Cursando el primer año de daw 
