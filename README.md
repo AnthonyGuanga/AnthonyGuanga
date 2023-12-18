@@ -1,6 +1,6 @@
- ![](https://cdn.betterttv.net/emote/5d61b1b14932b21d9c332f1b/1x.webp)  Hola Como estan :)))))) ![](https://cdn.betterttv.net/emote/5d61b1b14932b21d9c332f1b/1x.webp)
+ ![](https://cdn.betterttv.net/emote/5d61b1b14932b21d9c332f1b/1x.webp)  Hello how are you :)))))) ![](https://cdn.betterttv.net/emote/5d61b1b14932b21d9c332f1b/1x.webp) 
 
-<h2>Sobre mi </h2>
+<h2>🌱Sobre mi </h2>
 
 - Soy Anthony guanga Renteria
 
@@ -8,7 +8,12 @@
 
 - Cursando el primer año de daw
 
-- Me gusta ir al gym con mi amigo Falipe
+- Me gusta ir al gym con mi amigo Felipe, erjie pero casi no va
+
+  
+<h2>🛠️ My Favorite Tools </h2>
+
+[![My Skills](https://skillicons.dev/icons?i=eclipse,html,css,vscode)](https://skillicons.dev)
 
 
 
