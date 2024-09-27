@@ -8,7 +8,6 @@
 
 - Cursando el primer año de daw
 
-- Me gusta ir al gym con mi amigo Felipe, erjie pero casi no va
 
   
 <h2>🛠️ My Favorite Tools </h2>
