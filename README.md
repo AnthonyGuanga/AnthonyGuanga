@@ -4,9 +4,9 @@
 
 - Soy Anthony guanga Renteria
 
-- Estudiante de UpGradeHub
-
-- Cursando el primer año de daw
+- Estudiante de zayas majadahonda
+  
+- Cursando el segundo año de daw
 
 
   
