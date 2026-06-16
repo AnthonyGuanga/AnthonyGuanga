@@ -9,7 +9,7 @@ Desde siempre, la tecnología ha sido una de mis grandes pasiones, lo que me lle
 - **Técnico Superior DAW**
 
 
-<h2>Lenguajes aprendidos</h2>
+<h2><img src="https://mario.wiki.gallery/images/e/e6/SMB_Mushroom_Retainer_Sprite.png" width="20" align="top" /> Tecnologia </h2>
 
 A lo largo de mis estudios, he estado trabajando y aprendiendo con estas tecnologías:
 
