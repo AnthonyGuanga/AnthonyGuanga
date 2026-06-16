@@ -15,7 +15,7 @@ A lo largo de mis estudios, he estado trabajando y aprendiendo con estas tecnolo
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,java,react,mysql,aws,eclipse,github,gitlab,linux,npm,php,sass,ts,vscode,wordpress,tailwind)](https://skillicons.dev)
 
-<h2>📈 Mis Estadísticas de GitHub </h2>
+<h2><img src="https://mario.wiki.gallery/images/f/ff/SMW_Big_Boo_cast.png" width="30" align="top" />  Mis Estadísticas de GitHub </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnthonyGuanga&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=gray" alt="Estadísticas de Anthony" />
